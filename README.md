@@ -7,7 +7,7 @@
 ## Installation
 
 ```python
-$ pip install colabcode
+$ pip install pengepulcinta
 ```
 
 Run code server on [Google Colab](https://colab.research.google.com/) or [Kaggle](https://www.kaggle.com/) Notebooks.
